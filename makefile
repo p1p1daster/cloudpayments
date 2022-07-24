@@ -1,0 +1,2 @@
+format:
+	isort -rc . && black .
